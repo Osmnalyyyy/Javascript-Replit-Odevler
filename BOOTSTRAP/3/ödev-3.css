@@ -1,0 +1,14 @@
+nav form .btn {
+  border: 2px solid blue;
+  color: blue;
+}
+nav div .sag-menu li:first-child {
+  background-color: rgb(75, 244, 75);
+  border: 3px solid green;
+  border-radius: 30px;
+}
+nav div .sag-menu li:hover {
+  background-color: rgb(75, 244, 75);
+  border: 3px solid green;
+  border-radius: 30px;
+}

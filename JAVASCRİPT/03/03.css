@@ -1,0 +1,46 @@
+:root {
+  --color1: #dc1717;
+}
+
+.container {
+  margin-top: 10rem;
+  padding: 3rem;
+  border: 2px solid var(--color1);
+  border-radius: 80px;
+  text-align: center;
+  background-color: rgb(226, 188, 245);
+}
+.textGame {
+  margin-top: 1rem;
+}
+#txtNum,
+#btnGuess,
+#btnStart,
+#btnYeni {
+  border-radius: 12px;
+}
+
+#btnStart {
+  color: rgb(77, 22, 4);
+  cursor: pointer;
+  background-color: aquamarine;
+  border: 1px solid rgb(21, 21, 106);
+}
+#btnGuess {
+  color: rgb(171, 9, 186);
+  cursor: pointer;
+  background-color: rgb(193, 214, 118);
+  border: 1px solid rgb(21, 21, 106);
+}
+#txtNum {
+  color: rgb(36, 9, 243);
+  cursor: pointer;
+  background-color: rgb(199, 161, 248);
+  border: 1px solid rgb(21, 21, 106);
+}
+#btnYeni {
+  color: rgb(36, 9, 243);
+  cursor: pointer;
+  background-color: rgb(230, 177, 243);
+  border: 1px solid rgb(41, 41, 231);
+}
